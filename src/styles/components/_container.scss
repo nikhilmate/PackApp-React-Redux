@@ -1,0 +1,32 @@
+.add-container {
+  border-radius: 5px;
+  border: 2px solid grey;
+  padding: 20px 0;
+}
+.add-container form {
+  display: inline-flex;
+  flex: 1;
+ }
+ .add-container form p {
+   display: block;
+   justify-content: center;
+   align-items: center;
+   flex: 1;
+   height: auto;
+   padding: 5px;
+  }
+ .add-container form p span {
+   display: flex;
+   width: 100%;
+   justify-content: center;
+   align-items: baseline;
+   flex: 1;
+ }
+ .add-container form p input {
+   display: flex;
+   width: 100%;
+   justify-content: center;
+   align-items: baseline;
+   flex: 1;
+ 
+ }

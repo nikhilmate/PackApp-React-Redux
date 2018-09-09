@@ -1,0 +1,33 @@
+.add-case {
+  border-radius: 5px;
+  border: 2px solid grey;
+  padding: 20px 0;
+  margin-bottom: 5px;
+}
+.add-case form {
+ display: inline-flex;
+ flex: 1;
+}
+.add-case form p {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: auto;
+  padding: 5px;
+ }
+.add-case form p span {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: baseline;
+  flex: 1;
+}
+.add-case form p input {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: baseline;
+  flex: 1;
+
+} 
